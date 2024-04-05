@@ -1,1 +1,1 @@
-# goit-js-hw-04
+https://nexs12.github.io/goit-js-hw-04/
